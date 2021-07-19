@@ -3,9 +3,9 @@
 	"name": "WorkFlow",
 	"version":"0.1",
 	"browser_action":{
-		"default_icon":"icon.png",
+		"default_icon":"./res/icon.png",
 		"default_title":"WorkFlow",
-		"default_popup":"popup_page.html"
+		"default_popup":"./html/popup_page.html"
 		}
 
 }
