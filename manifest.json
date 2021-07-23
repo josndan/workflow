@@ -6,6 +6,9 @@
 		"default_icon":"./res/icon.png",
 		"default_title":"WorkFlow",
 		"default_popup":"./html/popup_page.html"
-		}
+		},
+	"background": {
+  		"scripts": ["./scripts/background.js"]
+  	}
 
 }
